@@ -1,28 +1,53 @@
 <section id="one" class="tiles">
-  {% for post in site.posts limit:site.tiles-count %}
-  {% if site.tiles-source == 'posts' %}
   <article>
-    <span class="image">
-      <img src="{{ post.image }}" alt="" />
-    </span>
     <header class="major">
-      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-      <p>{{ post.description }}</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/rF1sQatbwf0" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </header>
   </article>
-  {% endif %}
-  {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image">
-      <img src="{{ page.image }}" alt="" />
+      <img src="assets/images/1572088158_397471_1572088257_noticia_normal.jpg" alt="" />
     </span>
     <header class="major">
-      <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
-      <p>{{ page.description }}</p>
+      <h3><a href="#" class="link">Title of the video</a></h3>
+      <p>Some description</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
+        libero eu nibh porttitor fermentum.
+        Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
+        Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in
+        aliquam at, euismod in lectus.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit
+        amet elit placerat maximus.
+        Pellentesque aliquam maximus risus, vel sed vehicula.
+      </p>
     </header>
   </article>
-  {% endif %}
-  {% endfor %}
+  <article>
+    <span class="image">
+      <img src="assets/images/1572088158_397471_1572088633_album_normal.jpg" alt="" />
+    </span>
+    <header class="major">
+      <h3><a href="#" class="link">Title of the video</a></h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
+        libero eu nibh porttitor fermentum.
+        Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
+        Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in
+        aliquam at, euismod in lectus.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit
+        amet elit placerat maximus.
+        Pellentesque aliquam maximus risus, vel sed vehicula.
+</p>
+    </header>
+  </article>
+  <article>
+    <header class="major">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/0TFGlKQ2hdI" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <!-- <h3><a href="#" class="link">Title of the video</a></h3>
+      <p>Some description</p> -->
+    </header>
+  </article>
 </section>
