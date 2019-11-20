@@ -51,7 +51,7 @@
 				$window
 					.on('scroll._parallax', function() {
 
-						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
+						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top) + 1600;
 
 						$t.css('background-position', 'center ' + (pos * (-1 * intensity)) + 'px');
 
@@ -231,7 +231,7 @@
 					$image = $this.find('.image'), $img = $image.find('img');
 
 				// Parallax.
-					$this._parallax(0.275);
+					$this._parallax(0.5);
 
 				// Image.
 					if ($image.length > 0) {
