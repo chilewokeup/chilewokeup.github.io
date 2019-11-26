@@ -1,10 +1,10 @@
 # site settings
-title: Chile Woke Up
+title: Chile Woke Up NZ 🇳🇿 🇨🇱
 subtitle:
 email:
-description:
+description: Looking for kiwis awareness and support about abuses of Chile's government
 baseurl:
-url: # the base hostname & protocol for your site
+url: https://chilewokeup.github.io/
 author:
 street_address:
 city:
