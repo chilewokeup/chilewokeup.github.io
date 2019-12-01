@@ -2,13 +2,20 @@
 layout: post
 title: We need your support!
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/3133008h980.jpg
 nav-menu: true
 position: 2
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+During the last month a series of information commissions, pacific demonstrations, TV interviews among other activities have taken place along New Zealand and the world. Currently, Chile is getting to a point where medical supplies are running out as the police attacks medical volunteers and hospitals, safety elements are also necessary for them to work under those conditions, such as eye protection and helmets. Therefore, we –us Chilean residents of New Zealand- would like to ask for your support both sharing this information and by a donation to provide our compatriots with:
+<ul>
+  <li>
+    Food for “ollas communes” (communal cooking), where groups of people that have lost their jobs gather to feed their families.
+  </li>
+  <li>
+    Safety elements as eye protections, gloves and helmets for volunteers from the red cross and other institutions that take care of the injured.
+  </li>
+  <li>
+    Medical supply, mostly for first aids on the street, where bullets, tear gas and caskets are being shot a low distance (less than 10 meter) to people, to maximize the damage, as well as chemical burns caused by caustic splashed from the water cannons.
+  </li>
+</ul>
